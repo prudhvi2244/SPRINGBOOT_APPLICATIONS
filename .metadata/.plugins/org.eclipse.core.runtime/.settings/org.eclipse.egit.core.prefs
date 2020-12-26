@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=T\:\\springboot-pdf-demo\\.git;T\:\\spring-boot-email-thymeleaf\\.git;
+GitRepositoriesView.GitDirectories.relative=T\:\\springboot-pdf-demo\\.git;T\:\\spring-boot-email-thymeleaf\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
